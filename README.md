@@ -8,7 +8,6 @@ This repository contains solutions to various Java exercises that demonstrate es
 3. [Exercise 3: Managing Products and Clients](#exercise-3-managing-products-and-clients)
 4. [How to Run](#how-to-run)
 5. [Technologies Used](#technologies-used)
-6. [Author](#author)
 
 ---
 
@@ -109,3 +108,10 @@ A generic interface `IMetier<T>` with the following methods:
    ```bash
    git clone https://github.com/Zacks-World/java-lab.git
    cd java-lab
+   
+## Technologies Used
+Java: Programming language.
+Object-Oriented Programming (OOP): Core design principle.
+Serialization: For file persistence in Exercise 3.
+File I/O: To read/write .txt and .dat files.
+Generics: Used in IMetier interface.
