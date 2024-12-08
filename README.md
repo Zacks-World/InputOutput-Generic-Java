@@ -23,10 +23,11 @@ This repository contains solutions to various Java exercises that demonstrate es
 
 ### Example Output:
 
----
-##![DossierFiles](https://github.com/user-attachments/assets/6621cdd0-22d5-4874-b217-2060ca447063)
+![DossierFiles](https://github.com/user-attachments/assets/6621cdd0-22d5-4874-b217-2060ca447063)
 
- Exercise 2: Phonebook Management
+---
+
+##Exercise 2: Phonebook Management
 
 **Objective**: Develop a Java application to manage a phonebook where:
 - Each contact's name and phone number is stored in separate files.
