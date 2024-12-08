@@ -51,15 +51,11 @@ This repository contains solutions to various Java exercises that demonstrate es
     - Add, delete, search, and update contacts.
 
 ### Menu Options:
-1.Rechercher un numéro de téléphone.
-
-2.Ajouter un nouveau contact.
-
-3.Supprimer un contact.
-
-4.Changer le numéro de téléphone d’un contact.
-
-5.Quitter ce programme.
+1. Rechercher un numéro de téléphone.
+2. Ajouter un nouveau contact.
+3. Supprimer un contact.
+4. Changer le numéro de téléphone d’un contact.
+5. Quitter ce programme.
 
 
 ---
