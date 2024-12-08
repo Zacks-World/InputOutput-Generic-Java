@@ -27,7 +27,7 @@ This repository contains solutions to various Java exercises that demonstrate es
 
 ---
 
-##Exercise 2: Phonebook Management
+## Exercise 2: Phonebook Management
 
 **Objective**: Develop a Java application to manage a phonebook where:
 - Each contact's name and phone number is stored in separate files.
