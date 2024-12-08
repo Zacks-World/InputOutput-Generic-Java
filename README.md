@@ -110,8 +110,8 @@ A generic interface `IMetier<T>` with the following methods:
    cd java-lab
    
 ## Technologies Used
-Java: Programming language.
-Object-Oriented Programming (OOP): Core design principle.
-Serialization: For file persistence in Exercise 3.
-File I/O: To read/write .txt and .dat files.
-Generics: Used in IMetier interface.
+- Java: Programming language.
+- Object-Oriented Programming (OOP): Core design principle.
+- Serialization: For file persistence in Exercise 3.
+- File I/O: To read/write .txt and .dat files.
+- Generics: Used in IMetier interface.
